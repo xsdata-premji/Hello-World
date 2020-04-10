@@ -1,0 +1,14 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 7CE6-01B3
+
+ Directory of D:\DevOps\Jenkins-Working\Sample java programs
+
+04/10/2020  08:54 PM    <DIR>          .
+04/10/2020  08:54 PM    <DIR>          ..
+04/10/2020  08:09 PM               529 anotherdoc.txt
+04/10/2020  08:50 PM               899 Hello.class
+04/10/2020  10:42 AM               217 Hello.java
+04/10/2020  07:39 PM               474 readme.txt
+04/10/2020  08:54 PM                 0 testing.txt
+               5 File(s)          2,119 bytes
+               2 Dir(s)  80,376,496,128 bytes free
